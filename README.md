@@ -1,16 +1,20 @@
-# myflut
+# my Quiz 
 
-A new Flutter project.
+hello there 
 
-## Getting Started
+this is my first app on flutter :)
+feeling so much happy that i chose flutter over react-native 
+bcz flutter gets so much sexy and sexy day by day and i really fell in love with it :)
 
-This project is a starting point for a Flutter application.
+this project has some questions and you should choose options and then you get results that you
+have positive or negative attitude based on your choices 
 
-A few resources to get you started if this is your first Flutter project:
+- don't forget to celebrate if you get +ve results and
+- don't crash app if you get -ve results
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+this is not that worthy to share this on git but
+- i love my projects and it is my first so .....
+- i pushed on git :)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+thankyou  for visiting
